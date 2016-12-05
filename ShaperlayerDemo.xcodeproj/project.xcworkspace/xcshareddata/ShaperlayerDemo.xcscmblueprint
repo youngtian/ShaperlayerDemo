@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "760E2D6A9F4EBEF68ED5D5878E02817D3E90007F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F35C59402E4131609EC15013A493749CCF16CC55" : 9223372036854775807,
+    "760E2D6A9F4EBEF68ED5D5878E02817D3E90007F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "209C67FD-8653-4C16-A884-B9FB7303FB38",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F35C59402E4131609EC15013A493749CCF16CC55" : "",
+    "760E2D6A9F4EBEF68ED5D5878E02817D3E90007F" : "ShaperlayerDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ShaperlayerDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ShaperlayerDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:youngTian\/ShaperlayerDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "760E2D6A9F4EBEF68ED5D5878E02817D3E90007F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:youngTian\/ShaperlayerDemo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F35C59402E4131609EC15013A493749CCF16CC55"
+    }
+  ]
+}
